@@ -1,5 +1,14 @@
 /* ***************** utilities & containers ***************** */
+.container {
+    margin: 0 auto;
+}
 
+:root {
+    --primary-blue: #0C4A6E;
+    --off-white:#FAFAFA;
+    --grey: #F4F4F5;
+    
+}
 /* ***************** global typography ***************** */
 
 /* ***************** header & footer ***************** */
